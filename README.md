@@ -14,6 +14,9 @@ This project demonstrates:
 
 🔎 Architecture
 
+<img width="1385" height="619" alt="mcp_gateway_flow" src="https://github.com/user-attachments/assets/30788cf3-dc4a-4fa7-82fd-321cffb8957e" />
+
+
 Inbound auth → Amazon Cognito (OAuth2 client credentials).
 
 Gateway → AgentCore Gateway (protocol: MCP).
